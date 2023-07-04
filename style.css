@@ -1,0 +1,81 @@
+body {
+    font-family: 'League Spartan';
+    background-color: #040b14 
+}
+
+.header-text {
+    color: white;
+}
+
+.hero {
+    color: white;
+}
+
+.name-title {
+    font-size: 120px;
+    color: white;
+}
+
+.red-text {
+    font-size: 120px;
+    color: #ff0000;
+}
+
+#description {
+    font-size: x-large;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+
+#image-list {
+    margin-bottom: 100px;
+}
+
+#image-list-text {
+    font-size: xx-large;
+    color: white;
+    margin-bottom: 200px;
+}
+
+.blue-text {
+    color: #00f7ff;
+}
+
+.portfolio-work {
+    margin-top: 300px;
+    color: white;
+}
+
+#moving-image {
+    margin-top: 80px;
+}
+
+.work-title {
+    margin-bottom: 100px;
+}
+
+#me-photo {
+    margin-top: 100px;
+}
+
+.cinder-title {
+    margin-bottom: 80px;
+}
+
+.moving-title {
+    margin-top: 100px;
+}
+
+.design-title {
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+
+.nav-bar-home {
+    color: red;
+}
+
+.footer {
+    margin-top: 200px;
+    color: white;
+}
